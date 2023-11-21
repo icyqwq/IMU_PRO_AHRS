@@ -1,0 +1,9 @@
+[submodule "lib/Reefwing-AHRS"]
+	path = lib/Reefwing-AHRS
+	url = https://github.com/Reefwing-Software/Reefwing-AHRS
+[submodule "lib/Reefwing-imuTypes"]
+	path = lib/Reefwing-imuTypes
+	url = https://github.com/Reefwing-Software/Reefwing-imuTypes.git
+[submodule "lib/MadgwickAHRS"]
+	path = lib/MadgwickAHRS
+	url = https://github.com/arduino-libraries/MadgwickAHRS.git
