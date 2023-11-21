@@ -2,7 +2,7 @@
 
 Here's M5stack IMU PRO Unit AHRS example on CoreS3. Offered two different AHRS library with 9-axis IMU sensor data.
 
-![B387B0D4651AF384E3C623FEA3C966EB](assets\B387B0D4651AF384E3C623FEA3C966EB.jpg)
+![B387B0D4651AF384E3C623FEA3C966EB](assets/B387B0D4651AF384E3C623FEA3C966EB.jpg)
 
 ## Thanks for these amazing works
 
